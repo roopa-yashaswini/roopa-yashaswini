@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on ... <br/>
 
-  - Cloud-native applications & Kubernetes automation
   - AI/ML research projects (ML & NLP & DL)
+  - Cloud-native applications & Kubernetes automation
   - Open-source contributions in cloud infrastructure & AI
   - Hackathons & coding competitions
       
