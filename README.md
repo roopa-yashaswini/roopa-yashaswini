@@ -5,37 +5,32 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on ... <br/>
+👋 Hi, I’m **Roopa Yashaswini**, an AI/ML Engineer passionate about building real-world applications using NLP, LLMs, and data-driven systems.
 
-  I’m a **Software Engineer** and **Data** and **AI Enthusiast** passionate about building **scalable cloud solutions, automating infrastructure, and harnessing AI** for real-world impact. With a **Masters in Analytics and Management** from **London Business School** and a **Masters in Computer Science** degree from the **University of Hyderabad**, I thrive at the intersection of technology, strategy, and innovation.
+💼 Currently working on GenAI projects, including a **RAG-based ESG compliance assistant** and **document parsing ML pipelines**.
 
-  I have hands-on experience in **cloud computing, Kubernetes automation, full-stack development, and AI/ML**, having worked on platform migrations, AI-powered automation, and large-scale system optimizations. I believe in leveraging technology to drive efficiency, reduce costs, and create meaningful solutions.
+🧠 My strengths lie in blending **machine learning**, **NLP**, **cloud-native infrastructure**, and **full-stack tools** to deploy scalable AI systems.
 
-  Beyond coding, I enjoy hackathons and deep tech discussions. Always up for a challenge, I love solving complex problems, be it in **code, data, or strategy**.
+🔍 **Core interests:**
+- LLMs (OpenAI, LangChain)
+- NLP and GenAI
+- OCR and document intelligence
+- MLOps & cloud deployments (AWS, Kubernetes, Terraform)
 
-🌱 I’m currently learning ... <br/>
+🎓 **Education:**
+- 📚 M.Sc. in Data Analytics & Management — *London Business School*  
+- 🎓 M.Tech in Computer Science — *University of Hyderabad*
 
-  - **Machine Learning & AI** - Application of AI/ML for Business, Machine Learning for Big Data, Deep Learning, Natural Language Processing
+💼 **Work Experience:**
+- 🔧 **GenAI & Data Engineering Analyst** – *Texpert AI*  
+- ☁️ **Software Engineer (Cloud & Infra)** – *GE Vernova*  
+- 📊 **Data Science Intern** – *Purview Services*  
+- 🧪 **Machine Learning Intern** – *Microsoft Verzeo*
 
-  - **Cloud Computing & DevOps** - AWS, Kubernetes, Docker, Terraform, Crossplane
+🚀 Let’s build something impactful.
 
-  - **Data Science & Analytics** - Data Science for Business, Data Visualization and Storytelling, Time Series Analysis, Business Strategy Analytics
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/roopa-yashaswini)
 
-  - **Full-Stack Development** - React, Node.js, SQL, MongoDB
-
-👯 I’m looking to collaborate on ... <br/>
-
-  - AI/ML research projects (ML & NLP & DL)
-  - Cloud-native applications & Kubernetes automation
-  - Open-source contributions in cloud infrastructure & AI
-  - Hackathons & coding competitions
-      
-📫 How to reach me: ... <br/>
-  Email: rkotha.mam2025@london.edu <br/>
-  LinkedIn: [roopa-yashaswini](https://www.linkedin.com/in/roopa-yashaswini) <br/>
-
-  
-⚡ **Fun fact:** I can debug code faster than I can decide what to eat for dinner... unless it's pizza, then it's an instant yes! 🍕💻
 
 <br/>
 
